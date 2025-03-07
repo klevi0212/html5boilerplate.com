@@ -29,3 +29,4 @@ package is correct by running `npm run test` and then checking the
 output.
 
 The site is served directly from the `docs/` directory.
+Ciao a tutti
